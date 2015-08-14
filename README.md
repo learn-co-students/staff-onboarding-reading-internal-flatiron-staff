@@ -1,6 +1,6 @@
-# General Onboarding - Admin
+# General Onboarding - Reading
 
-Here are all of the tasks...
+Here are things for you to read
 
 
 - asdf
