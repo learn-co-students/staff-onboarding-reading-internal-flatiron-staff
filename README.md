@@ -1,9 +1,8 @@
-# First Day
+# General Onboarding - Admin
 
-Welcome to Flatiron School (and to Learn)! We are so excited for your first day.
+Here are all of the tasks...
 
-There are three lessons you need to finish today.
 
-1. General Onboarding - Admin
-2. General Onboarding - Reading
-3. General Onboarding - Tasks
+- asdf
+- asdf 
+- asdf
